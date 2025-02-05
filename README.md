@@ -50,7 +50,7 @@ The dashboard provides insights into:
 - Referral departments and patient satisfaction scores.  
 - Status of patient admissions and timeliness of service.  
 
-![Dashboard Screenshot](./Hospital_Dashboard.png)  
+![Dashboard Screenshot](https://github.com/amanrathour14/Hospital-Emergency-Room-Data-Analysis/blob/main/Hospital%20Dashboard%20Final.png)
 
 ---
 
